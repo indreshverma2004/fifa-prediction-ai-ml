@@ -1,7 +1,7 @@
 # Ignore frontend dependencies
 /frontend/node_modules
-/frontend/.pnp
 /frontend/build
+/frontend/.pnp
 
 # Ignore backend dependencies
 /backend/__pycache__/
